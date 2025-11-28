@@ -1,4 +1,4 @@
-name: 'Build and Release laba6'
+name: 'laba6'
 
 on:
   push:
