@@ -20,9 +20,9 @@ add_executable(${PROJECT_NAME}
 
 include_directories(
     ${CMAKE_CURRENT_SOURCE_DIR}
-    ${CMAKE_CURRENT_SOURCE_DIR}/model
-    ${CMAKE_CURRENT_SOURCE_DIR}/controller
-    ${CMAKE_CURRENT_SOURCE_DIR}/view
+    ${CMAKE_CURRENT_SOURCE_DIR}/primitives
+    ${CMAKE_CURRENT_SOURCE_DIR}/core
+    ${CMAKE_CURRENT_SOURCE_DIR}/output
 )
 
 install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION bin)
