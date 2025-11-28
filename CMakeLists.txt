@@ -15,7 +15,7 @@ add_executable(${PROJECT_NAME}
     primitives/Sqare.cpp
     primitives/Document.cpp
     core/Core.cpp
-    output/Output.cpp
+    output/output.cpp
 )
 
 include_directories(
