@@ -1,8 +1,0 @@
-# ninja log v6
-6	731	7860483101565036	CMakeFiles/laba6.dir/main.cpp.obj	2f99415891a8fa63
-33	820	7860455689083329	CMakeFiles/laba6.dir/output/output.cpp.obj	17835c23b25900a2
-732	877	7860483108795705	laba6.exe	3ad5d222ae7af5fa
-9	784	7860455688853925	CMakeFiles/laba6.dir/primitives/Circle.cpp.obj	a3769cb008aa8d27
-18	900	7860455688944540	CMakeFiles/laba6.dir/primitives/Document.cpp.obj	6c20ad466cbf757c
-28	1325	7860455689038940	CMakeFiles/laba6.dir/core/Core.cpp.obj	f1d6c10293ffd8e6
-33	494	7860455995699788	CMakeFiles/laba6.dir/primitives/Sqare.cpp.obj	419c20cb9a23892e
