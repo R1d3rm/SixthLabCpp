@@ -18,8 +18,11 @@ add_executable(${PROJECT_NAME}
     output/Output.cpp
 )
 
-target_include_directories(${PROJECT_NAME} PRIVATE
-    ${CMAKE_SOURCE_DIR}
+include_directories(
+    ${CMAKE_CURRENT_SOURCE_DIR}
+    ${CMAKE_CURRENT_SOURCE_DIR}/model
+    ${CMAKE_CURRENT_SOURCE_DIR}/controller
+    ${CMAKE_CURRENT_SOURCE_DIR}/view
 )
 
 install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION bin)
