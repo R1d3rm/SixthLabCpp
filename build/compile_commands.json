@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/tpu/CPP/term3/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/tpu/CPP/term3/laba6 -g -std=gnu++17 -o CMakeFiles\\laba6.dir\\main.cpp.obj -c C:\\tpu\\CPP\\term3\\laba6\\main.cpp",
+  "file": "C:\\tpu\\CPP\\term3\\laba6\\main.cpp",
+  "output": "CMakeFiles\\laba6.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/tpu/CPP/term3/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/tpu/CPP/term3/laba6 -g -std=gnu++17 -o CMakeFiles\\laba6.dir\\primitives\\Circle.cpp.obj -c C:\\tpu\\CPP\\term3\\laba6\\primitives\\Circle.cpp",
+  "file": "C:\\tpu\\CPP\\term3\\laba6\\primitives\\Circle.cpp",
+  "output": "CMakeFiles\\laba6.dir\\primitives\\Circle.cpp.obj"
+},
+{
+  "directory": "C:/tpu/CPP/term3/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/tpu/CPP/term3/laba6 -g -std=gnu++17 -o CMakeFiles\\laba6.dir\\primitives\\Sqare.cpp.obj -c C:\\tpu\\CPP\\term3\\laba6\\primitives\\Sqare.cpp",
+  "file": "C:\\tpu\\CPP\\term3\\laba6\\primitives\\Sqare.cpp",
+  "output": "CMakeFiles\\laba6.dir\\primitives\\Sqare.cpp.obj"
+},
+{
+  "directory": "C:/tpu/CPP/term3/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/tpu/CPP/term3/laba6 -g -std=gnu++17 -o CMakeFiles\\laba6.dir\\primitives\\Document.cpp.obj -c C:\\tpu\\CPP\\term3\\laba6\\primitives\\Document.cpp",
+  "file": "C:\\tpu\\CPP\\term3\\laba6\\primitives\\Document.cpp",
+  "output": "CMakeFiles\\laba6.dir\\primitives\\Document.cpp.obj"
+},
+{
+  "directory": "C:/tpu/CPP/term3/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/tpu/CPP/term3/laba6 -g -std=gnu++17 -o CMakeFiles\\laba6.dir\\core\\Core.cpp.obj -c C:\\tpu\\CPP\\term3\\laba6\\core\\Core.cpp",
+  "file": "C:\\tpu\\CPP\\term3\\laba6\\core\\Core.cpp",
+  "output": "CMakeFiles\\laba6.dir\\core\\Core.cpp.obj"
+},
+{
+  "directory": "C:/tpu/CPP/term3/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/tpu/CPP/term3/laba6 -g -std=gnu++17 -o CMakeFiles\\laba6.dir\\output\\output.cpp.obj -c C:\\tpu\\CPP\\term3\\laba6\\output\\output.cpp",
+  "file": "C:\\tpu\\CPP\\term3\\laba6\\output\\output.cpp",
+  "output": "CMakeFiles\\laba6.dir\\output\\output.cpp.obj"
+}
+]

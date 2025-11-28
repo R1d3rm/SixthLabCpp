@@ -1,0 +1,9 @@
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/laba6.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/package.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/package_source.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/edit_cache.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/rebuild_cache.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/list_install_components.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/install.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/install/local.dir
+C:/tpu/CPP/term3/laba6/build/CMakeFiles/install/strip.dir
